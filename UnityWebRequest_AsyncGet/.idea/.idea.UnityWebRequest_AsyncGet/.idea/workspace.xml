@@ -20,6 +20,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5e1c17e2d6094231a08f516335934b31a7800/46/8f6b1808/JsonConverter.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5e1c17e2d6094231a08f516335934b31a7800/76/41eb465a/JsonSerializer.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5e1c17e2d6094231a08f516335934b31a7800/a3/8984ed37/JsonConverter`1.cs" root0="SKIP_HIGHLIGHTING" />
@@ -27,6 +28,8 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/880832f2c4e2458090401bbb74a86b24a8a00/6e/c90f44be/JsonConverter.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9ac0682aa4f74ee59eb5d5c917c9f1c98a000/b9/4693daf3/JsonConverter.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c6b52566f59b49fc861a7812a1ea2f6b157a00/95/9256d19e/ContextMenu.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThePrototype/ISerializationOption.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThePrototype/JsonSerializationOption.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ThePrototype/User.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -87,7 +90,8 @@
       <updated>1665754524256</updated>
       <workItem from="1665754535031" duration="3214000" />
       <workItem from="1665990085734" duration="371000" />
-      <workItem from="1665990478061" duration="2919000" />
+      <workItem from="1665990478061" duration="3708000" />
+      <workItem from="1665994732047" duration="1788000" />
     </task>
     <servers />
   </component>
@@ -117,15 +121,15 @@
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Assets/ThePrototype/TestController.cs</url>
           <line>17</line>
-          <properties documentPath="C:\Users\Burak\Desktop\MyProjects\UnityWebRequest\UnityWebRequest_AsyncGet\Assets\ThePrototype\TestController.cs" initialLine="16" containingFunctionPresentation="method 'GetTest'">
+          <properties documentPath="C:\Users\Burak\Desktop\MyProjects\UnityWebRequest\UnityWebRequest_AsyncGet\Assets\ThePrototype\TestController.cs" initialLine="17" containingFunctionPresentation="method 'GetTest'">
             <startOffsets>
-              <option value="454" />
+              <option value="483" />
             </startOffsets>
             <endOffsets>
-              <option value="493" />
+              <option value="528" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="3" />
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

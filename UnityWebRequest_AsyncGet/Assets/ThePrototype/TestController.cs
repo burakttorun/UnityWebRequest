@@ -14,7 +14,7 @@ public class TestController : MonoBehaviour
     {
         var url = "https://jsonplaceholder.typicode.com/todos/1";
         
-        HttpClient httpClient = new HttpClient();
+        HttpClient httpClient = new HttpClient(new JsonSerializationOption());
         var result = await httpClient.Get<User>(url);
     }
 }
