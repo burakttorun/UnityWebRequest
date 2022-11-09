@@ -22,4 +22,10 @@ public class JsonSerializationOption : ISerializationOption
             return default;
         }
     }
+
+    public string Serialize<T>(T type)
+    {
+        var result = JsonConvert.SerializeObject(type);
+        return result;
+    }
 }
